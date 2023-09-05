@@ -1,10 +1,10 @@
 # Project Overview ✈️
-📑 project Title: Job Analyst
-🧒 Team Members: Shubham Pathak,Amit Porwal, Madhu Gupta
-👨‍🏫 Mentioned by: Manish Hemnani
-🔧 Skills required: Advance Excel,python,Mysql,Visualization,Beautifulsoup,Selenium,EDA,Dashboard
-📆 Project start Date: 30/08/2023
-📆 Project start Date: 04/09/2023
+#### 📑 project Title: Job Analyst
+#### 🧒 Team Members: Shubham Pathak,Amit Porwal, Madhu Gupta
+#### 👨‍🏫 Mentioned by: Manish Hemnani
+#### 🔧 Skills required: Advance Excel,python,Mysql,Visualization,Beautifulsoup,Selenium,EDA,Dashboard
+#### 📆 Project start Date: 30/08/2023
+#### 📆 Project start Date: 04/09/2023
 
 #Project Description 📂:
 Job Analysis: Job analysts perform job analysis, a systematic process of collecting and documenting information about a job. This includes tasks sourced from the instahyre website,a prominent job portal.This project was conceived and executed by a team of dedicated individuals,including Shubham pathak,Amit Porwal,Madhu Gupta, under the expert guidence of Manish Hemnani.
