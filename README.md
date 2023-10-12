@@ -54,7 +54,7 @@ This project is a testment to the team's commitment to excellence, and it stands
 ![image](https://github.com/Shubhampathak02/Job_Analyst/assets/138750345/5d81ad59-7937-42ea-ad23-0db383e5602f)
 
 
-* ####_for more Interesting insights read the ppt file _:http://tinyurl.com/xut683sx
+ #### *_for more Interesting insights read the ppt file _:http://tinyurl.com/xut683sx
 
   Thank you for visiting my project page.
 
