@@ -4,7 +4,7 @@
 
 
 # Project Overview ✈️
-#### 📑 project Title: Job Analyst
+#### 📑 project Title: Instahyre Job Analyst
 #### 🧒 Team Members: Shubham Pathak,Amit Porwal, Madhu Gupta
 #### 👨‍🏫 Mentioned by: Manish Hemnani
 #### 🔧 Skills required: Advance Excel,python,Mysql,Visualization,Beautifulsoup,Selenium,EDA,Dashboard
